@@ -1,0 +1,18 @@
+Apr  9 19:58:53 localhost kernel: e1000: ens33 NIC Link is Down
+Apr  9 19:58:58 localhost kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr  9 19:59:59 localhost kernel: e1000: ens33 NIC Link is Down
+Apr  9 20:00:03 localhost kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr  9 20:20:22 localhost kernel: e1000: ens33 NIC Link is Down
+Apr  9 20:20:28 localhost kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr  9 20:20:35 localhost kernel: e1000: ens33 NIC Link is Down
+Apr 10 15:36:59 localhost kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 10 15:40:16 localhost kernel: e1000: ens33 NIC Link is Down
+Apr 10 15:58:12 localhost kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 10 17:24:07 localhost kernel: e1000: ens33 NIC Link is Down
+Apr 10 17:36:40 localhost kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 10 20:24:18 localhost kernel: e1000: ens33 NIC Link is Down
+Apr 10 20:29:47 localhost kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 10 20:29:49 localhost kernel: e1000: ens33 NIC Link is Down
+Apr 10 20:29:55 localhost kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 10 20:36:02 localhost kernel: e1000: ens33 NIC Link is Down
+Apr 10 20:36:06 localhost kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None

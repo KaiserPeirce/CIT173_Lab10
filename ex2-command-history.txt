@@ -1,0 +1,186 @@
+    1  mkdir ~/CIT173_Lab10
+    2  dir
+    3  tail -n 25 /var/log/messages
+    4  sudo tail -n 25 /var/log/messages
+    5  tail -n 25 /var/log/kern.log
+    6  cd/var/log
+    7  cd /var/log
+    8  dir
+    9  ls
+   10  cat journal
+   11  less journal
+   12  less vmware-vmsvc.log
+   13  more jornal
+   14  more journal
+   15  vi journal
+   16  less journal
+   17  less -l journal
+   18  ~/
+   19  less /etc/syslog.conf
+   20  /etc/syslog.conf
+   21  cd /etc
+   22  dir
+   23  ls syslog.conf
+   24  list syslog.conf
+   25  vi journald
+   26  less journald.conf
+   27  less journald
+   28  sudo yum -y install rsyslog
+   29  dir
+   30  systemctl enable ryslog
+   31  systemctl enable rsyslog
+   32  vi rsyslog.conf
+   33  search rsyslog
+   34  ~/
+   35  dir
+   36  ~/
+   37  cd ~/
+   38  dir
+   39  ryslogd -v
+   40  sudo yum -y install rsyslog
+   41  ls /etc/rsyslog
+   42  dir /etc/log
+   43  ls /etc/rsyslog
+   44  cd /etc/log
+   45  cd /etc/var
+   46  cd /var/log
+   47  dir
+   48  systemctl start rsyslog
+   49  dir
+   50  rsyslog
+   51  less journal
+   52  cd /var
+   53  dir
+   54  cd /var/log
+   55  dir
+   56  dir etc/rsyslog
+   57  dir /etc/rsyslog.conf
+   58  vi /etc/rsyslog.conf
+   59  sudo vi /etc/ryslog.conf
+   60  vi /etc/ryslog.conf
+   61  vi /etc/rsyslog.conf
+   62  sudo vi /etc/rsyslog.conf
+   63  /var/log
+   64  cd /var/log
+   65  dir
+   66  sudo vi /etc/rsyslog.conf
+   67  dir
+   68  mkdir kernlog
+   69  sudo mkdir kernlog
+   70  sudo vi /etc/rsyslog.conf
+   71  dir
+   72  less kernlog
+   73  cat kernlog
+   74  vi kernlog
+   75  less kernlog
+   76  cd kernlog
+   77  dir
+   78  ls
+   79  les
+   80  cd /var/log
+   81  dir
+   82  sudo vi /etc/rsyslog.conf
+   83  tail -25 /var/log/kernlog > ~/CIT173_Lab10/kernel-log-last-25.txt
+   84  sudo vi /etc/rsyslog.conf
+   85  vi /etc/systemd/journald.conf
+   86  sudo systemctl restart systemd-journald
+   87  sudo youm-y install rsyslog
+   88  sudo yum-y install rsyslog
+   89  sudo yum -y install rsyslog
+   90  systemctl enable ryslog
+   91  systemctl start ryslog
+   92  where ryslog
+   93  look
+   94  look man
+   95  man look
+   96  look rsyslog
+   97  systemctl enable rsyslog
+   98  systemctl start rsyslog
+   99  dir ~/
+  100  dir /var/log
+  101  tail -n 25 /var/log/kern.log > ~/CIT173_Lab10/kernel-log-last-25.txt
+  102  tail -n 25 /var/log/kernlog > ~/CIT173_Lab10/kernel-log-last-25.txt
+  103  sudo tail -n 25 /var/log/kernlog > ~/CIT173_Lab10/kernel-log-last-25.txt
+  104  less  ~/CIT173_Lab10/kernel-log-last-25.txt
+  105  man logger
+  106  logger Help! I've fallen and I can't get up!
+  107  less /var/log/messages
+  108  sudo less /var/log/messages
+  109  sudo tail -n 25 /var/log/messages
+  110  logger Help! I've fallen and I can't get up!
+  111  sudo tail -n 25 /var/log/messages
+  112  logger Help! I've fallen and I can't get up!
+  113  sudo tail -n 1 /var/log/messages > ~/CIT173_Lab10/my-system-log.txt
+  114  less ~/CIT173_Lab10/my-system-log.txt
+  115  sudo vi /etc/rsyslog.conf
+  116  sudo vi /etc/rsyslog.d
+  117  sudo vi /etc/rsyslog.conf
+  118  copy /etc/rsyslog.conf > ~/CIT173_Lab10/rsyslog.conf
+  119  /etc/rsyslog.conf > ~/CIT173_Lab10/rsyslog.conf
+  120  sudo /etc/rsyslog.conf > ~/CIT173_Lab10/rsyslog.conf
+  121  sudo cp  /etc/rsyslog.conf ~/CIT173_Lab10/rsyslog.conf
+  122  sudo vi /etc/rsyslog.conf
+  123  sudo cp  /etc/rsyslog.conf ~/CIT173_Lab10/new-rsyslog.conf
+  124  less /var/log/all-info.log 
+  125  sudo less /var/log/all-info.log 
+  126  sudo less /var/log/all-warnings.log 
+  127  sudo vi /etc/rsyslog.conf
+  128  sudo less /var/log/all-warnings.lo
+  129  sudo vi /etc/rsyslog.conf
+  130  sudo less /var/log/all-warnings.log
+  131  mkdir /var/log/all-warnings.log
+  132  sudo mkdir /var/log/all-warnings.log
+  133  sudo cp /var/log/all-warnings.log ~/CIT173_Lab10/
+  134  sudo cp /var/log/all-warnings.log ~/CIT173_Lab10/all-warnings.log
+  135  man cp
+  136  sudo cp -r  /var/log/all-warnings.log ~/CIT173_Lab10/all-warnings.log
+  137  dir ~/CIT173_Lab10/
+  138  sudo cp -r  /var/log/all-info.log.log ~/CIT173_Lab10/all-warnings.log
+  139  sudo cp -r  /var/log/all-info.log ~/CIT173_Lab10/all-info.log
+  140  sudo hwclock -w
+  141  date
+  142  sudo hwclock -w
+  143  date
+  144  date -set"1 JA 1970 00:00:00[B
+  145  date
+  146  date -set"1 JA 1970 00:00:00[B
+  147  date -set"1 JA 1970 00:00:00
+  148  date -set"1 JA 1970 00:00:00"
+  149  date -set "1 JA 1970 00:00:00"
+  150  date -set +"1 JA 1970 00:00:00"
+  151  date -s"1 JA 1970 00:00:00"
+  152  date -s"JA 1 1970 00:00:00"
+  153  man date
+  154  date -s"1970 1 1  00:00:00"
+  155  man date
+  156  date -s"1970-1-1  00:00:00"
+  157  sudo date -s"1970-1-1  00:00:00"
+  158  date
+  159  sudo yum -y install ntpd
+  160  sudo install ntpd
+  161  yum install ntp
+  162  sudo yum install ntp
+  163  sudo hwclock -w
+  164  date
+  165  sudo yum -y install ntp
+  166  man date
+  167  sudo hwclock -w
+  168  date
+  169  date -s"2019-4-16  02:34:00"
+  170  sudo date -s"2019-4-16  02:34:00"
+  171  sudo yum -y install ntp
+  172  sudo vi ntp.conf
+  173  find ntp.conf
+  174  find ntp
+  175  systemctl enable ntp
+  176  sudo vi /etc/ntp.conf
+  177  sudo less /etc/ntp.conf
+  178  man ntp.conf
+  179  sudo vi /etc/ntp.conf
+  180  systemctl start ntp
+  181  systemctl enable ntp
+  182  systemctl enable ntpd
+  183  systemctl start ntpd
+  184  date
+  185  sudo cp /etc/ntp.conf ~/CIT173_Lab10/ntp.conf
+  186  history > ~/CIT173_Lab10/ex2-command-history.txt
